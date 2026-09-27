@@ -1,0 +1,8 @@
+# Node modules (re-installable)
+.pi/agent/extensions/*/node_modules/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
